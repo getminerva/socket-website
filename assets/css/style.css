@@ -18,6 +18,9 @@ body {
 img {
 	max-width: 100%;
 	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 
 a {
@@ -73,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 	font: 700 40px/1.2 Raleway, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	margin: 5px 0 5px;
+	
 	color: #222;
 }
 
@@ -425,7 +428,7 @@ textarea.form-control {
 			background-size: cover;
 
 	padding: 0;
-	height:100%;
+	
 }
 
 .home-overlay {
@@ -455,7 +458,7 @@ textarea.form-control {
 	padding-bottom: 100px;
 }
 .catchphrase{
-	font-size: 45px;
+	font-size: 50px;
 	padding-top: 25px;
 }
 .intro p{
@@ -842,11 +845,48 @@ textarea.form-control {
 	.calltoaction {
 		text-align: center;
 	}
+	.catchphrase{
+	font-size: 155%;
+	padding-top: 265px;
+	}
+	.intro p{
+	font-size: 30px;
+	  margin-left: 284px;
+	  
+  
 
+	}
+
+	.start {
+	font-family: Wire One, "Times New Roman", Times, sans-serif;
+	font-size: 200px;
+	font-style: normal;
+	text-transform: none;
+	height:383px;
+	}
 }
 
 @media (max-width: 480px) {
+	.catchphrase{
+	font-size: 155%;
+	padding-top: 265px;
+	}
+	.intro p{
+	font-size: 30px;
+	  margin-left: 284px;
+	  
+  
 
+	}
+
+	.start {
+	font-family: Wire One, "Times New Roman", Times, sans-serif;
+	font-size: 200px;
+	font-style: normal;
+	text-transform: none;
+	height:383px;
+	}
+	
 	h1 {
 		font-size: 34px;
 		letter-spacing: 3px;

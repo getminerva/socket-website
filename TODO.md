@@ -1,7 +1,7 @@
 #TODO
-+ Add a centering class to divs
 + Make window non user-resizeable
 + Add CNAME for redirection
++ Make social icons more prominent
 
 + Panel page
 + Sections to add:
@@ -11,6 +11,7 @@
 + Change tagline
 
 #WORKLOG
++ Add a centering class to divs
 + Fix socket image color ;; Update: Sent color schemes to Brandon.
 + fix socket image sizing on responsive view (set max-width)
 + Come up with 6 attributes DONE

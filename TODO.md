@@ -1,6 +1,7 @@
 #TODO
 + Add a centering class to divs
 + Make window non user-resizeable
++ Add CNAME for redirection
 
 + Panel page
 + Sections to add:

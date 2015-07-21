@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 	font: 700 40px/1.2 Raleway, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	
+
 	color: #222;
 }
 
@@ -415,7 +415,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-	
+
 	background: url(../images/cover1.jpg);
 	background-color: #222;
 	background-attachment: fixed;
@@ -428,7 +428,7 @@ textarea.form-control {
 			background-size: cover;
 
 	padding: 0;
-	
+
 }
 
 .home-overlay {
@@ -458,15 +458,19 @@ textarea.form-control {
 	padding-bottom: 100px;
 }
 .catchphrase{
-	font-size: 50px;
-	padding-top: 25px;
+	/*font-size: 50px;*/
+	padding-top: 100px;
 }
-.intro p{
+.intro p {
 	font-size: 30px;
 	  margin-left: 284px;
-	  
-  
 
+
+
+}
+
+.catchphrase-text {
+	padding-too
 }
 
 .start {
@@ -475,6 +479,17 @@ textarea.form-control {
 	font-style: normal;
 	text-transform: none;
 	height:383px;
+}
+
+.start::after {
+	display: block;
+	position: relative;
+	top: -20%;
+	left: 20%;
+	content: "by CASTLE";
+	font-size: 30px;
+	font-family: Arial, sans-serif;
+
 }
 
 /* ---------------------------------------------- /*
@@ -852,8 +867,8 @@ textarea.form-control {
 	.intro p{
 	font-size: 30px;
 	  margin-left: 284px;
-	  
-  
+
+
 
 	}
 
@@ -874,8 +889,8 @@ textarea.form-control {
 	.intro p{
 	font-size: 30px;
 	  margin-left: 284px;
-	  
-  
+
+
 
 	}
 
@@ -886,7 +901,7 @@ textarea.form-control {
 	text-transform: none;
 	height:383px;
 	}
-	
+
 	h1 {
 		font-size: 34px;
 		letter-spacing: 3px;
@@ -1098,7 +1113,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtrotator .cbp-qtcontent.cbp-qtcurrent,
 .no-js .cbp-qtrotator .cbp-qtcontent {
-	position: relative; 
+	position: relative;
 	z-index: 100;
 	pointer-events: auto;
 	opacity: 1;
@@ -1151,7 +1166,7 @@ figure.effect-bubba:hover p {
 }
 
 /* Example for media query */
-@media screen and (max-width: 30.6em) { 
+@media screen and (max-width: 30.6em) {
 
 	.cbp-qtrotator {
 		font-size: 70%;
@@ -1162,4 +1177,3 @@ figure.effect-bubba:hover p {
 	}
 
 }
-

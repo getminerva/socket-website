@@ -1,4 +1,5 @@
 #TODO
++ Upload blog posts and link em.
 + Fix favicon? make it darker maybe
 + Panel page
 + Sections to add:

@@ -1193,8 +1193,8 @@ figure.effect-bubba:hover p {
 
 @font-face {
 	font-family: 'Glyphicons Halflings';
-	src: url("../fonts/glyphicons-halflings-regular.eot");
-	src: url("../fonts/glyphicons-halflings-regular.eot?#iefix") format('embedded-opentype'),url(../fonts/glyphicons-halflings-regular.woff) format('woff'),url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+	src: url(../fonts/glyphicons-halflings-regular.eot);
+	src: url(../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(../fonts/glyphicons-halflings-regular.woff) format('woff'), url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
 }
 
 .faqHeader {
@@ -1202,11 +1202,9 @@ figure.effect-bubba:hover p {
     margin: 20px;
 }
 
-
 .panel-heading [data-toggle="collapse"]:after {
         font-family: 'Glyphicons Halflings';
         content: "\e258";
-
         float: right;
         color: #F58723;
         font-size: 18px;

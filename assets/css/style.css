@@ -1196,7 +1196,7 @@ figure.effect-bubba:hover p {
 }
 
 .panel-heading [data-toggle="collapse"]:after {
-        font-family: 'Glyphicons Halflings';
+        font-family: 'glyphicons-halflings-regular';
         content: "\e072"; 
         float: right;
         color: #F58723;

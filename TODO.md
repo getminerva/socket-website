@@ -1,14 +1,16 @@
 #TODO
-+ Make social icons more prominent
 
 + Panel page
 + Sections to add:
-	- FAQ
 	- Cost comparison & analysis
 	- Scenario
 + Change tagline
 
 #WORKLOG
++ Make social icons more prominent
++ Made section:
+	- FAQ
+
 + Add CNAME for redirection
 + Make window non user-resizeable
 + Add a centering class to divs

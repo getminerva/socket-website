@@ -81,8 +81,8 @@ a,
 
 h1, h2, h3, h4, h5, h6 {
 	font: 700 49px/1.2 Raleway, sans-serif;
-	
-	
+
+
 
 	color: #222;
 }
@@ -806,7 +806,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .scroll-down {
-	
+
 	bottom: 40px;
 	border: 2px solid #fff;
 	border-radius: 50%;
@@ -882,7 +882,7 @@ textarea.form-control {
 	.catchphrase-text {
 		font-size:36px;
 
-		
+
 	}
 	.start-follower{
 		position:relative;
@@ -892,7 +892,7 @@ textarea.form-control {
 		text-align: center;
 	}
 
-	
+
 }
 
 @media (max-width: 490px) {
@@ -908,12 +908,12 @@ textarea.form-control {
 		font-weight:100;
 	}
 
-	
+
 
 	.start {
-		
+
 		font-size: 1344%;
-		
+
 	}
 
 	.start-follower{
@@ -921,7 +921,7 @@ textarea.form-control {
 		left:28%;
 		line-height:1.5;
 		font-size:183%;
-	}	
+	}
 
 }
 
@@ -1190,14 +1190,23 @@ figure.effect-bubba:hover p {
 /*-----------------------*/
 /********* FAQ ***********/
 /*-----------------------*/
+
+@font-face {
+	font-family: 'Glyphicons Halflings';
+	src: url("../fonts/glyphicons-halflings-regular.eot");
+	src: url("../fonts/glyphicons-halflings-regular.eot?#iefix") format('embedded-opentype'),url(../fonts/glyphicons-halflings-regular.woff) format('woff'),url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+}
+
 .faqHeader {
     font-size: 27px;
     margin: 20px;
 }
 
-span.panel-heading [data-toggle="collapse"]:after {
-        font-family: 'Glyphicons-Halflings-Regular';
-        content: "\e072"; 
+
+.panel-heading [data-toggle="collapse"]:after {
+        font-family: 'Glyphicons Halflings';
+        content: "\e258";
+
         float: right;
         color: #F58723;
         font-size: 18px;

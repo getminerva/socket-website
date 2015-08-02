@@ -1,5 +1,5 @@
 #TODO
-
++ Fix favicon? make it darker maybe
 + Panel page
 + Sections to add:
 	- Cost comparison & analysis
@@ -7,10 +7,15 @@
 + Change tagline
 
 #WORKLOG
+
+####08.02.2015
+./index.html
 + Make social icons more prominent
 + Made section:
 	- FAQ
 
+
+####a while ago (lmao)
 + Add CNAME for redirection
 + Make window non user-resizeable
 + Add a centering class to divs

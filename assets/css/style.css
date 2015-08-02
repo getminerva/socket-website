@@ -1195,8 +1195,8 @@ figure.effect-bubba:hover p {
     margin: 20px;
 }
 
-.panel-heading [data-toggle="collapse"]:after {
-        font-family: 'glyphicons-halflings-regular';
+span.panel-heading [data-toggle="collapse"]:after {
+        font-family: 'Glyphicons-Halflings-Regular';
         content: "\e072"; 
         float: right;
         color: #F58723;
@@ -1210,7 +1210,7 @@ figure.effect-bubba:hover p {
         transform: rotate(-90deg);
 }
 
-.panel-heading [data-toggle="collapse"].collapsed:after {
+span.panel-heading [data-toggle="collapse"].collapsed:after {
         /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
         -webkit-transform: rotate(90deg);
         -moz-transform: rotate(90deg);

@@ -14,6 +14,7 @@
 + Make social icons more prominent
 + Made section:
 	- FAQ
++ Fixed accordion issue, added transition
 
 
 ####a while ago (lmao)

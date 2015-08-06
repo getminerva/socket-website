@@ -10,6 +10,16 @@
 
 #WORKLOG
 
+####08.07.2015 (Indecent hours)
+`Josh did:`
+./index.html
++ Cleaned up some stuff - removed white-space, closed some divs/elements that for some reason weren't closed. Probably should do a code review soon.
++ Changed .start-follower to a span
+
+./assets/css/style.css
++ Fixed responsivess.
+	- Might need a little bit of tweaking here and there but should be fine now.
+
 ####08.02.2015
 ./index.html
 + Make social icons more prominent

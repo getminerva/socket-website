@@ -881,18 +881,16 @@ textarea.form-control {
 @media (max-width: 767px) {
 	.catchphrase-text {
 		font-size:36px;
-
-
 	}
+
 	.start-follower{
 		position:relative;
 		left:30%
 	}
+
 	.calltoaction {
 		text-align: center;
 	}
-
-
 }
 
 @media (max-width: 490px) {
@@ -908,21 +906,16 @@ textarea.form-control {
 		font-weight:100;
 	}
 
-
-
 	.start {
-
 		font-size: 1344%;
-
 	}
 
-	.start-follower{
+	.start-follower {
 		position:relative;
-		left:28%;
-		line-height:1.5;
-		font-size:183%;
+		left: 28%;
+		line-height: 1.5;
+		font-size: 183%;
 	}
-
 }
 
 

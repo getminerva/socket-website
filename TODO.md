@@ -1,4 +1,5 @@
 #TODO
++ Fix section titles to match "Features" title style
 + Upload blog posts and link em.
 + Fix favicon? make it darker maybe
 + Panel page

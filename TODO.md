@@ -1,14 +1,20 @@
 #TODO
-+ Fix section titles to match "Features" title style
-+ Upload blog posts and link em.
++ Mobile safari padding
++ Fix FB in-app browser picture sizing
 + Fix favicon? make it darker maybe
 + Panel page
 + Sections to add:
+	- How it works
 	- Cost comparison & analysis
 	- Scenario
 + Change tagline
 
 #WORKLOG
+
+####08.09.2015
+./index.html
++ Fix section titles to match "Features" title style
++ Upload blog posts and link em.
 
 ####08.07.2015 (Indecent hours)
 `Josh did:`

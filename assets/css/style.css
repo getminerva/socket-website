@@ -10,7 +10,7 @@
 */
 
 body {
-	font: 300 14px/1.8   'Raleway', sans-serif;
+	font: 300 14px/1.8 'Raleway', sans-serif;
 	color: #666;
 	overflow-x: hidden;
 }
@@ -33,7 +33,6 @@ a:hover {
 }
 
 .cntr {
-	/*position: absolute;*/
 	margin: 0 auto;
 	top: 50%;
 	transform: translateY(-50%);
@@ -42,7 +41,6 @@ a:hover {
 /* ---------------------------------------------- /*
  * Transition elsements
 /* ---------------------------------------------- */
-
 
 .navbar a,
 .form-control {
@@ -81,9 +79,6 @@ a,
 
 h1, h2, h3, h4, h5, h6 {
 	font: 700 49px/1.2 Raleway, sans-serif;
-
-
-
 	color: #222;
 }
 
@@ -159,7 +154,7 @@ h6 {
 	padding: 0 15px;
 }
 
-.form-control:focus{
+.form-control:focus {
     border-color: rgba(135, 135, 135, 0.7);
 }
 
@@ -424,7 +419,6 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-
 	background: url(../images/mainbackground.jpg);
 	background-color: #222;
 	background-attachment: fixed;
@@ -437,7 +431,6 @@ textarea.form-control {
 			background-size: cover;
 
 	padding: 0;
-
 }
 
 .home-overlay {
@@ -867,8 +860,6 @@ textarea.form-control {
 	.catchphrase-box {
 		margin-top: 150px;
 		padding-top: 0;
-
-
 	}
 
 	.catchphrase-text {
@@ -888,6 +879,10 @@ textarea.form-control {
 
 	.scroll-down {
 		bottom: -80px;
+	}
+
+	.post-pic {
+		max-height: 240px;
 	}
 }
 

@@ -1,5 +1,5 @@
 #TODO
-+ Mobile safari padding
++ Mobile safari padding - gotta fix that
 + Fix FB in-app browser picture sizing
 + Fix favicon? make it darker maybe
 + Panel page

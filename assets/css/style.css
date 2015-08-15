@@ -11,7 +11,7 @@
 
 html, body {
 	width: 100%;
-	height: 100%
+	height: 100%;
 }
 
 body {
@@ -887,7 +887,7 @@ textarea.form-control {
 	}
 }
 
-@media (max-width: 360px) {
+@media (max-width: 414px) {
 	.catchphrase-box {
 		margin-top: 150px;
 	}

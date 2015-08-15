@@ -2,6 +2,7 @@
 + Mobile safari padding - gotta fix that
 + Fix FB in-app browser picture sizing
 + Fix favicon? make it darker maybe
++ Re-add glyphicons-halflings-regular woff and ttf files 
 + Panel page
 + Sections to add:
 	- How it works

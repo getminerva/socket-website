@@ -881,10 +881,6 @@ textarea.form-control {
 	.catchphrase-box {
 		margin-top: 100px;
 	}
-
-	.scroll-down {
-		/*bottom: -60px;*/
-	}
 }
 
 @media (max-width: 414px) {
@@ -912,7 +908,7 @@ textarea.form-control {
 	}
 
 	.intro .btn {
-		margin-top: -80px;
+		margin-top: -160px;
 	}
 
 	.scroll-down {

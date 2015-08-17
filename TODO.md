@@ -1,8 +1,6 @@
 #TODO
-+ Mobile safari padding - gotta fix that
-+ Fix FB in-app browser picture sizing
 + Fix favicon? make it darker maybe
-+ Re-add glyphicons-halflings-regular woff and ttf files 
++ Re-add glyphicons-halflings-regular woff and ttf files
 + Panel page
 + Sections to add:
 	- How it works
@@ -11,6 +9,15 @@
 + Change tagline
 
 #WORKLOG
+
+####08.16.2015
+./style.css
++ Redid splash sizing for media queries.
++ Mobile safari padding - fixed that
++ Fix FB in-app browser picture sizing
+
+./index.html
++ Everything should be fine and dandy and organized
 
 ####08.09.2015
 ./index.html
